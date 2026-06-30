@@ -13,5 +13,5 @@ __pycache__/
 Thumbs.db
 
 # Output files
-output.html
 *.html
+*.json
